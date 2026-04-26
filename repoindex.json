@@ -4,6 +4,11 @@
       "id": "app.cadaide.lang.python",
       "name": "Python language support",
       "ref": "https://raw.githubusercontent.com/Cadaide/plug-lang-python/refs/heads/main/plugindex.json"
+    },
+    {
+      "id": "app.cadaide.playground",
+      "name": "(DEV) Cadaide plugin playground",
+      "ref": "https://raw.githubusercontent.com/Cadaide/plug-playground/refs/heads/main/plugindex.json"
     }
   ]
 }
