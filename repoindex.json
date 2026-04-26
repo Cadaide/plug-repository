@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "app.cadaide.lang.python",
+      "name": "Python language support",
+      "ref": "https://raw.githubusercontent.com/Cadaide/plug-lang-python/refs/heads/main/plugindex.json"
+    }
+  ]
+}
